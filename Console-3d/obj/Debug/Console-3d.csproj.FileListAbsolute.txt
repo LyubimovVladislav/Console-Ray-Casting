@@ -1,0 +1,7 @@
+C:\Users\grifo\RiderProjects\Console-3d\Console-3d\bin\Debug\Console_3d.exe
+C:\Users\grifo\RiderProjects\Console-3d\Console-3d\bin\Debug\Console_3d.pdb
+C:\Users\grifo\RiderProjects\Console-3d\Console-3d\obj\Debug\Console-3d.csproj.CoreCompileInputs.cache
+C:\Users\grifo\RiderProjects\Console-3d\Console-3d\obj\Debug\Console_3d.exe
+C:\Users\grifo\RiderProjects\Console-3d\Console-3d\obj\Debug\Console_3d.pdb
+C:\Users\grifo\RiderProjects\Console-3d\Console-3d\obj\Debug\Console-3d.csproj.AssemblyReference.cache
+C:\Users\grifo\RiderProjects\Console-3d\Console-3d\obj\Debug\Console-3d.csproj.SuggestedBindingRedirects.cache
